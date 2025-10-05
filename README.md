@@ -42,18 +42,18 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" /></a>
 </p>
 
-<h3 align="center">Socials</h3>
-
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/damien-boenapfel/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
 <h3 align="center">Trophies</h3>
 
 <p align="center">
   <a href="https://github.com/Dambpfl">
     <img src="https://github-profile-trophy.vercel.app/?username=Dambpfl&theme=darkhub&row=1&column=4&margin-w=15&margin-h=15" alt="Damien's GitHub Trophies" />
+  </a>
+</p>
+
+<h3 align="center">Socials</h3>
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/damien-boenapfel/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
