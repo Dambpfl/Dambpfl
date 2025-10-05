@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Drupal-0077C0?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal" />
 </p>
 
-<h3 align="center">UX/UI</h3>
+<h3 align="center">UX · UI</h3>
 
 <p align="center"> 
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" /></a>
