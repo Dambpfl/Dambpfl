@@ -26,6 +26,7 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=symfony" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=webpack" /></a>
 </p>
 
 <h3 align="center">UX / UI</h3>
