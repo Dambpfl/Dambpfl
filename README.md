@@ -64,7 +64,4 @@
   <a href="https://www.linkedin.com/in/damien-boenapfel/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/Dambpfl">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
 </p>
