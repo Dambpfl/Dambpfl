@@ -1,13 +1,6 @@
-<div align="center">
-
-  <h1>
-    Hi, My name is Damien 
-    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"/>
-  </h1>
-  <br>
-  <h2>Full-stack developer</h2>
-
-</div>
+<p align="center">
+  <img src="./header.svg" alt="Hi, my name is Damien" />
+</p>
 
 <p align="center"> 
   🌍 I'm based in Strasbourg, France
