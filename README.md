@@ -46,6 +46,8 @@
 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=flutter" />
   <img src="https://skillicons.dev/icons?i=dart" />
 </p>
