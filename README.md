@@ -27,6 +27,13 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=webpack" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Drupal-0077C0?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal" />
+  </p>
+
 </p>
 
 <h3 align="center">UX / UI</h3>
