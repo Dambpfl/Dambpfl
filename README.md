@@ -30,6 +30,7 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=npm" /></a>
 </p>
 
 <p align="center">
@@ -48,8 +49,6 @@
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
   <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=flutter" />
-  <img src="https://skillicons.dev/icons?i=dart" />
 </p>
 
 <h3 align="center">Trophies</h3>
